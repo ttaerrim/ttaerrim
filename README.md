@@ -33,7 +33,7 @@
   <br/><br/>
  <p>
    
-   ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ttaerrim/)      
+   ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ttaerrim/&count_bg=%2300bdd3&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)
    
   </p>
   <br/>
