@@ -1,6 +1,6 @@
 <div align='center'> 
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=ttaerrim&fontSize=90&animation=twinkling&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=ttaerrim&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=40)
 
 <h3 align="center">Tech Stack</h3>
   
