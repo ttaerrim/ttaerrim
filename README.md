@@ -39,6 +39,12 @@
   <br/>
   <img src="https://raw.githubusercontent.com/ttaerrim/github-stats-transparent/a73a1b5c5019f442f3a91cf2971a37d68505f6f4/generated/overview.svg"/>
   <img src="https://raw.githubusercontent.com/ttaerrim/github-stats-transparent/a73a1b5c5019f442f3a91cf2971a37d68505f6f4/generated/languages.svg"/>
+  
+  
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer)
+
+  
 </div>
 <!--
 **ttaerrim/ttaerrim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
