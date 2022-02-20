@@ -26,7 +26,7 @@
   
   <p>
     
-<a href="https://ttaerrim.tistory.com/"><img src="https://img.shields.io/badge/Tistory-84a7ac?style=flat" /></a>
+<a href="https://ttaerrim.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-323232?style=flat" /></a>
 <a href="mailto:ttrrr121@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" /></a>
   </p>
   
