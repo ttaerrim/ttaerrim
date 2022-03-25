@@ -1,6 +1,6 @@
 <div align='center'> 
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Dive%20in%20Front~%20🐳&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Dive%20in%20Front~%20🐳&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=40)
 
 <h3 align="center">Tech Stack</h3>
   
@@ -31,13 +31,11 @@
 <a href="mailto:ttrrr121@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" /></a>
   </p>
   
-  <br/><br/>
  <p>
    
    ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ttaerrim/&count_bg=%2300bdd3&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)
    
   </p>
-  <br/>
   <img src="https://raw.githubusercontent.com/ttaerrim/github-stats-transparent/a73a1b5c5019f442f3a91cf2971a37d68505f6f4/generated/overview.svg"/>
   <img src="https://raw.githubusercontent.com/ttaerrim/github-stats-transparent/a73a1b5c5019f442f3a91cf2971a37d68505f6f4/generated/languages.svg"/>
   
