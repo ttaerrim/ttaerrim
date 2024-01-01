@@ -40,7 +40,8 @@
    ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ttaerrim/&count_bg=%2300bdd3&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)
    
   </p>
-  <img src="https://raw.githubusercontent.com/ttaerrim/github-stats-transparent/a73a1b5c5019f442f3a91cf2971a37d68505f6f4/generated/overview.svg"/>  
+
+  <img src="https://github-readme-stats.vercel.app/api?username=ttaerrim&hide=stars,contribs&count_private=true&show_icons=true" /> 
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ltr0121" />
   
   
