@@ -7,8 +7,10 @@
 <p align="center">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/> 
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Styled-DB7093?style=flat&logo=styledcomponents&logoColor=white"/>
+<img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat&logo=styledcomponents&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=SASS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vanilla_Extract-CCFBF2?logo=vanillaextract&logoColor=white"/>
   <br/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
