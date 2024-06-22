@@ -44,19 +44,15 @@
 <a href="https://ttaerrim.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-323232?style=flat" /></a>
 <a href="mailto:ttrrr121@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" /></a>
   </p>
-
-  <br/>
-  <br/>
-  
  <p>
-   
+  
    ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ttaerrim/&count_bg=%2300bdd3&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)
    
   </p>
+  <br/>
+  <br/>
+  
 
-    
-  
-  
 
   
 </div>
