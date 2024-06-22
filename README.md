@@ -1,5 +1,6 @@
 <div align='center'> 
   
+<!---  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Dive%20in%20Front~%20🐳&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=40)
 
 <h3 align="center">Tech Stack</h3>
@@ -11,6 +12,10 @@
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=SASS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vanilla_Extract-CCFBF2?logo=vanillaextract&logoColor=white"/>
+
+
+
+
   <br/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
@@ -23,7 +28,14 @@
 <img src="https://img.shields.io/badge/Notion-000000?logo=Notion">
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=ffffff">
 </p>
-  
+
+-->
+
+<img src="https://tech-orbit.wontory.dev/api?title=ttaerrim&tech=HTML5,CSS3,React,Redux,React%20Query,Tailwind%20CSS,JavaScript,TypeScript&size=950&duration=15" style="max-width: 700px;" />
+
+<!--
+![ttaerrim](https://tech-orbit.wontory.dev/api?title=ttaerrim&tech=HTML5,CSS3,React,Redux,React%20Query,Tailwind%20CSS,JavaScript,TypeScript&size=950&duration=15)
+-->
   
 <h3 align="center">Contact Me</h3>
   
@@ -32,6 +44,9 @@
 <a href="https://ttaerrim.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-323232?style=flat" /></a>
 <a href="mailto:ttrrr121@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" /></a>
   </p>
+
+  <br/>
+  <br/>
   
  <p>
    
@@ -39,15 +54,16 @@
    
   </p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ttaerrim&hide=stars,contribs&count_private=true&show_icons=true" /> 
     
   
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer)
 
   
 </div>
 <!--
+
+  <img src="https://github-readme-stats.vercel.app/api?username=ttaerrim&hide=stars,contribs&count_private=true&show_icons=true" /> 
+
 **ttaerrim/ttaerrim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
